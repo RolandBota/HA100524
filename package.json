@@ -1,0 +1,14 @@
+{
+  "name": "ha100524",
+  "version": "1.0.0",
+  "description": "HA100524",
+  "main": "100524.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "roland bota",
+  "license": "ISC",
+  "dependencies": {
+    "random-string-generator": "^1.0.1"
+  }
+}
